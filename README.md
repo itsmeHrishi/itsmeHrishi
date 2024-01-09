@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 Hi there!  I'm Hrishitosh Thakur, a passionate computer science student with a penchant for web development and cybersecurity. My journey in tech began with building websites, and it soon broadened to delve into the fascinating world of online security. I believe technology should empower, and that's why I thrive on spreading awareness about cyberthreats through my blog on Medium.
 
+## Holopin Badges:
+[![@itshrishi_t's Holopin board](https://holopin.me/itshrishi_t)](https://holopin.io/@itshrishi_t)
+
 ## ⚡️My Skillset:
 - ### Languages: Java, Python, C, C++, HTML/CSS, JavaScript, SQL
 - ### Areas of Expertise: Web Development, Cybersecurity, Hackathons
