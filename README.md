@@ -47,8 +47,6 @@ I'm always open to collaborating on exciting projects, sharing knowledge, and le
 - Email: [contacthrishi.t@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/ihrishi-t/]
 
-## Holopin Badges:
-[![@itshrishi_t's Holopin board](https://holopin.me/itshrishi_t)](https://holopin.io/@itshrishi_t)
 
 
 
